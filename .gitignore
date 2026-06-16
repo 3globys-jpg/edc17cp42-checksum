@@ -4,4 +4,4 @@ __pycache__/
 .claude/
 *.txt
 RESUME_PROMPT.md
-dist/
+# dist/ — tracked intentionally for releases
